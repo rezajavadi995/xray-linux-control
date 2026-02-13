@@ -282,7 +282,7 @@ EOF
 ---
 ## Make it executable:
 ```bash
-sudo chmod +x /usr/local/bin/xrayctl
+sudo chmod +x /usr/local/bin/Xray
 ```
 ---
 ## ▶ Running the Program
